@@ -15,7 +15,7 @@ Bu projede, birden fazla değeri bir dizi içinde depolamayı ve döngülerle bu
 Bu projede, `if`, `else if` ve `else` yapıları kullanarak karar mekanizmalarını oluşturdum. Kodun farklı koşullara göre nasıl tepki verdiğini görmek için çeşitli testler yaptım.
 
 ## 🔁 Proje 5: Döngüler (Loops)
-`for`, `while` ve `foreach` döngüleri ile çalışarak, tekrarlayan işlemleri otomatik hale getirmeyi öğrendim. Döngüler, büyük veri kümeleri üzerinde işlem yapmamı sağladı.
+`for`, `while` döngüleri ile çalışarak, tekrarlayan işlemleri otomatik hale getirmeyi öğrendim. Döngüler, büyük veri kümeleri üzerinde işlem yapmamı sağladı.
 
 ## 🧰 Proje 6: Metotlar (Methods)
 Kodları daha düzenli hale getirmek ve tekrar kullanılabilirlik sağlamak için metotlar yazmayı öğrendim. Parametre alıp işlem yapan ve sonuç döndüren metotlar geliştirdim.
