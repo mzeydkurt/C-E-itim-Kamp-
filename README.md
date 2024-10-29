@@ -31,4 +31,7 @@ Bu projede, kullanıcıdan aldığım verilerle işlem yaparak sonuç döndüren
 # C# Eğitim Kampı 201🎞️
 
 ## 💾 Proje 9 : SQL Veri Tabanı ve Tablo Oluşturma & C# Kısmına Bağlama
-Bu Projede C# Eğitim Kampının 201 modülüne geçiş yaptık. Bu proejde MS SQL'i Gördüm. MS SQL' de Database ,Tables nasıl eklenir,veriler uygulamadan nasıl girilir onu öğrendim. SQL'i C# 'a nasıl bağlarız onu gördüm.
+Bu Projede C# Eğitim Kampının 201 modülüne geçiş yaptık. Bu proejde MS SQL'in arayüzünü, Database ,Tables nasıl eklenir,veriler uygulamadan nasıl girilir onu öğrendim. SQL'i C# 'a nasıl bağlarız onu öğrendim.
+
+## 🪢 Proje 10 :  SQL Listeleme Ekleme Güncelleme ve Silme İşlemleri
+Bu Projede SQL'de C# ile nasıl listeleneceğini,ekleme,güncelleme ve silme işlemi yapılcağını öğrendim.
