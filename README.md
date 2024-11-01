@@ -35,3 +35,7 @@ Bu Projede C# Eğitim Kampının 201 modülüne geçiş yaptık. Bu proejde MS S
 
 ## 🪢 Proje 10 :  SQL Listeleme Ekleme Güncelleme ve Silme İşlemleri
 Bu Projede SQL'de C# ile nasıl listeleneceğini,ekleme,güncelleme ve silme işlemi yapılcağını öğrendim.
+
+# C# Eğitim Kampı 301🎢
+
+## 🏛️ Proje 11 : OOP Modülü: C# ile N Katmanlı Mimari Entity Layer
